@@ -1,0 +1,33 @@
+{
+  "name": "Harsh Keshari",
+  "version": "1.0.0",
+  "description": "npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "license": "ISC",
+  "author": "Harsh Keshari",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0",
+    "nodemon": "^3.0.1"
+  },
+  "bin": {
+    "hrshkshri": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrshkshri/npx-hrshkshri.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "bugs": {
+    "url": "https://github.com/hrshkshri/npx-hrshkshri/issues"
+  },
+  "homepage": "https://github.com/hrshkshri/npx-hrshkshri#readme"
+}
